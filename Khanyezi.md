@@ -169,6 +169,17 @@ During the period of study the guarantor is expected to service the interest due
 (not really competitors, but rather possible partners)
 They offer student loans to means tested and good academic performance. We could help them improve their model and attract investors to be able to offer more students funding. 
 
+## Barriers to entry
+We may face some issues due to high data needs to create a viable model. This is challenging as we need to get through a number of data sources and work on a model that best predicts a student’s credit rating. It is also a long, time consuming process to get the right ethics clearance to obtain and use that data. 
+
+There may be a high start-up cost due to the model, app, website and technology development involved in this project. 
+
+Additionally, we may need to do some test runs first for a couple of years to see how well our model does it’s predictions.
+
+## Threats and opportunities
+We may face the threat of investors not fully understanding and trusting our process and models. The government may also not trust our model and ban us from offering our services. More research and testing needs to be done here. 
+
+
 
 
 
