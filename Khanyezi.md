@@ -112,7 +112,7 @@ In summary, this will allow:
 4. Parsed data is submitted as a transaction and sent to smart contract
 5. Smart contract processes
 
-#### Repayment structure
+#### Smart contracts
 
 * smart contracts can be used to measure the investment risk of security pools
 * notify investors/creditors when a mortgage has gone delinquent
