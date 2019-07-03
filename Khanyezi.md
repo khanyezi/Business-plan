@@ -136,6 +136,41 @@ Because we will be using the blockchain technology, we will be able to offer:
 We will also link the students and the investors together, which is usually not the case. We will create liquid loans and attract multiple investors, which will make the raising of the funds easier. 
 
 ## Pricing our product or service 
+We will be a non-profit company, in order to assure that students get the best possible rates. However, we will have to price in any salaries, development costs and other expenses. It will be our aim to keep this as low as possible and we will be able to do this using blockchain technology. We will also allow for transparency in the fee structure. This will allow the students and investors to see where the fees are being used and that they are not being wasted. 
+
+# 4. Marketing Plan
+## Market research
+### Current Industry
+
+#### Private
+Currently students loans are mainly offered by the bank. 
+For most of the loans, the students need to have a sponsor who is able to act as surety if they are unable to repay the loan. This limits the number of students who are able to apply for loans. We will have no such policy, as we will rely on our model. 
+
+**ABSA**:
+* Interest rate: all loans are at the prime rate. 
+* Bank charges: R1 197 (including VAT) initiation fee (on first loan only) and R68.40 (including VAT) monthly administration fee.
+
+**FNB**:
+* Interest rate: Corne Jordaan, the head of credit at FNB Personal Loans, says the interest rate is linked to 
+prime and based on the risk profile of the sponsor and the nature of studies. Rates offered to FNB 
+customers are between prime and prime plus six percentage points
+* Bank charges: An initiation fee of R165 per credit agreement, plus 10 percent of the amount in excess of R1 000, but not exceeding R1 050 plus VAT, or R1 197. The initiation fee is charged once; not repeated for subsequent years of study. The monthly administration fee on the loan is R68.40 (including VAT).
+
+**Nedbank**:
+* Interest rate: prime plus two percentage points.
+During the period of study the guarantor is expected to service the interest due on the loan, and once the student has graduated and is employed, the student repays the full amount over an agreed period (up to 18 months per year of study funded).
+* Bank charges: R75 initiation fee and no monthly administration fee. There is a R65 initiation fee for subsequent years of study. (Charges exclude VAT.)
+
+**Eduloan**:
+
+#### Public:
+**NSFAS Student loans – Financial aid**:
+* Interest rate: 80% of prime rate 
+(not really competitors, but rather possible partners)
+They offer student loans to means tested and good academic performance. We could help them improve their model and attract investors to be able to offer more students funding. 
+
+
+
 
 
 
