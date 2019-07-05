@@ -1,9 +1,18 @@
 # 1. Executive Summary
-### An overview of our business idea (one or two sentences)
+We aim to empower communities to invest in their youths, through decentralized finance. We will do this by offering obligation-free student loans to post-graduate students and repackaging the loans into tradable securities for investors to invest in. This is done by tokenizion.
 
-### A description of your product and/or service. What problems are you solving for your target customers? 
+We believe that the current student loan system is South Africa excludes many students with potential, as they often require a guarantor. We will create a model which will project the likelihood of the student becoming employed once graduated and their income, this will allow us a place an informal credit rating on each student. This will be done using various inputs into a logistic regression model. 
+
+Once the model has selected students to whom we will award funding, we will raise the funds using a SPV, to target various types of investors. The overall credit rating of the pool will be determined by the overall credit rating of the students. 
+
+We will tokenize the SPV to allow for easy trading between investors of the tokens. Investors will be able to make a social impact investment, as well as diversify their portfolio. The SPV will be divided into three tranches:
+* Senior tranche - lowest risk and lowest return for the investor
+* Mezzzanine tranche - medium risk and return
+* Equity tranche - will act similar to an equity product, where the return will depend on the number of defaults. This will be for the high risk investors. 
+
+In our first year of business, we plan on getting UCT on board with our idea and offer up to 50 students a loan. From there we wish to grow and eventually offer this throughout South Africa. 
 ### Your goals for the business. Where do you expect the business to be in one year, three years, five years? 
-### Your proposed target market. Who are your ideal customers? 
+
 ### Your competition and what differentiates your business. Who are you up against, and what unique selling proposition will help you succeed? 
 ### Your management team and their prior experience. What do they bring to the table that will give your business a competitive edge? 
 ### Financial outlook for the business. If you’re using the business plan for financing purposes, explain exactly how much money you want, how you will use it, and how that will make your business more profitable. 
@@ -74,7 +83,7 @@ We offer collateral-free loans to post-graduate students by creating a social in
 
 The process can be explained as follows:
 
-![alt text](https://lh4.googleusercontent.com/7YutknJ-zOUtuNavpJHq2fjX5OIP6BRiQgnXMhu2FQTzlRpRkqREVD-DdnurIDVvsR1SqaoxmjVVAT3wqdFKXM1DoXF48NRSDxCWv6F8)
+[![Presentation02fa25524f1ba1b7.md.png](https://imgbbb.com/images/2019/07/05/Presentation02fa25524f1ba1b7.md.png)](https://imgbbb.com/image/ZcdhR)
 
 * Step1: 
 The model assigns probability of the student getting a job after graduation (which simultaneously applies a credit rating to that student).
@@ -165,7 +174,7 @@ During the period of study the guarantor is expected to service the interest due
 
 #### Public:
 **NSFAS Student loans – Financial aid**:
-* Interest rate: 80% of prime rate 
+* Interest rate: 80% of prime rate.  
 (not really competitors, but rather possible partners)
 They offer student loans to means tested and good academic performance. We could help them improve their model and attract investors to be able to offer more students funding. 
 
@@ -178,6 +187,60 @@ Additionally, we may need to do some test runs first for a couple of years to se
 
 ## Threats and opportunities
 We may face the threat of investors not fully understanding and trusting our process and models. The government may also not trust our model and ban us from offering our services. More research and testing needs to be done here. 
+Additionally we face the threat of not being able to optbai the needed data to produce a trusted model. 
+
+However, due to the current studnet laon structures and need for student loans in South Africa, we see a lot of opportunity. We will be able to open more study opportunities for students and allow for investors to diversify their portfolio. 
+
+## Product features and benefits
+#### Most important feature:
+* The loans will be securitized and tokenized to allow access to more investors and trading between them. This will also allow for transparency and lower loans costs for the students
+* A model will be used to apply credit ratings to the students
+
+#### Most important benefit
+Cost savings and financial inclusion. This product is aimed not to exclude those students that have no one to stand surety for their loan, or any other financial surety. 
+
+#### Possible after-sale services:
+* Secondary market for investors to trade their tokens
+* An app interface for the student to keep track of their loan and how much they still need to repay/have repaid already
+* An app interface for the investor to see how much money is owed to them and when to expect repayment, and any other details (level of risk of investment)
+* For both the student and investor to see how fees are being used and what the investment fund consists of (level of risk) to allow for full transparency. 
+
+## How we will market our product initially
+**Advertising may include:**
+* Online
+
+**Marketing may include:** 
+* Business website
+* Social media marketing
+* Email marketing
+* Search engine optimization
+* Networking
+* Word-of-mouth
+* Referrals
+* University campuses
+
+## Costs
+
+#### Initial costs
+* Minimum capital requirement against the risk-weighted loans, to support the function of the SPV and act as a cushion. 
+* There will be some initial development fees
+ * Development costs
+ * Research costs
+ * Technological expenses
+* There may be a license fee
+* Initial launching and marketing fees
+* Legal advice costs
+* Since we are developing on the Ethereum platform, we will need to buy Ether, which may result in additional costs
+
+
+#### Continued costs
+* Labour costs
+* Gas to run smart contracts
+
+
+
+
+
 
 
 
