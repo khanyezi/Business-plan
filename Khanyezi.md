@@ -1,16 +1,16 @@
 # 1. Executive Summary
-We aim to empower communities to invest in their youths, through decentralized finance. We will do this by offering obligation-free student loans to post-graduate students and repackaging the loans into tradable securities for investors to invest in. This is done by tokenizion.
+We aim to empower communities to invest in their youths, through decentralized finance. We will do this by offering obligation-free student loans to post-graduate students and repackaging the loans into tradable securities for investors to invest in. This is done by tokenization.
 
-We believe that the current student loan system is South Africa excludes many students with potential, as they often require a guarantor. We will create a model which will project the likelihood of the student becoming employed once graduated and their income, this will allow us a place an informal credit rating on each student. This will be done using various inputs into a logistic regression model. 
+We believe that the current student loan system is South Africa excludes many students with potential, as they often require a guarantor to co-sign their student loan. We will create a risk model which will project the likelihood of the student becoming employed once graduated and their income, this will allow us a place an informal credit rating on each student. This will be done using curated student data and to train a logistic regresion model for the likelihood of employment, and a linear regression for the income prediction. We believe that these models allow for simplicity, and transparency in our decision-making.
 
-Once the model has selected students to whom we will award funding, we will raise the funds using a SPV, to target various types of investors. The overall credit rating of the pool will be determined by the overall credit rating of the students. 
+Once the model has selected students to whom we will award funding, we will raise the funds using a special purpose vehicle (SPV), to target investors of varying risk apetites.The overall credit rating of the pool will be determined by the overall credit rating of the students in the SPV.
 
-We will tokenize the SPV to allow for easy trading between investors of the tokens. Investors will be able to make a social impact investment, as well as diversify their portfolio. The SPV will be divided into three tranches:
+We will tokenize the SPV to allow for easy trading between investors of the tokens. Investing in Khanyezi will allow investors to make a social impact, as well as diversify their portfolio. The SPV will be divided into three tranches:
 * Senior tranche - lowest risk and lowest return for the investor
 * Mezzzanine tranche - medium risk and return
 * Equity tranche - will act similar to an equity product, where the return will depend on the number of defaults. This will be for the high risk investors. 
 
-In our first year of business, we plan on getting UCT on board with our idea and offer up to 50 students a loan. From there we wish to grow and eventually offer this throughout South Africa. 
+In our first year of business, we plan to onboard the University of Cape Town,and offer up to 50 students a loan. From there we wish to grow and eventually offer our product throughout South Africa. 
 ### Your goals for the business. Where do you expect the business to be in one year, three years, five years? 
 
 ### Your competition and what differentiates your business. Who are you up against, and what unique selling proposition will help you succeed? 
@@ -42,10 +42,10 @@ Vision: Removing barriers to education by providing affordable funding.
 Our target customers will be post-graduate students and social impact investors.
 
 #### Post-graduate students 
-At the beginning we will offer our services to post-graduate students only, this includes honors and masters students. We will offer obligation free loans. 
+At the beginning we will offer our services to post-graduate students only, this includes honors and masters students. We will offer obligation free loans i.e. their only commitment is to repay the loan. 
 
 #### Investors
-Different types of investors will be targeted by our funding structure. The loan fees needed will grouped together to create a pool of funds which will be separated into 3 tranches:
+Different types of investors will be targeted by our funding structure. The amount of finance required will grouped together to create a pool of loans which will be separated into 3 tranches:
 * Senior tranche (low risk, low return)
 * Middle tranche (medium risk, medium return)
 * Subordinate tranche (high risk, high return)
@@ -57,11 +57,11 @@ as well as high interest costs.
 
 ## Industry
 
-We believe that we will have a competitive advantage due to the current industry structure. Our current competitors are the major banks, for example Standard Bank, ABSA, FNB and NedBank and any other organization offering student loans. These institutions require a guarantor earning at least R3,000 and the guarantor is obliged to make interest payments while the student is studying. It is often difficult for students to find someone to agree with this, especially those from low or no income families.
+We believe that we will have a competitive advantage due to the current industry structure. Our current competitors are the major banks, for example Standard Bank, ABSA, FNB and NedBank and any other organization offering student loans. These institutions require a guarantor earning at least R3,000 and the guarantor is obliged to make interest payments while the student is studying. It is often difficult for students to find someone to agree with this, especially those from low or no income families.The interest payments are often burdensome for guarantors earning as little as R3,000.
 
-We also believe that there is a plethora of unused student-specific data which has been overlooked by these incumbents due to lack of access to or knowledge of such data. The traditional process is long and we aim to reduce application time to minutes for most applications. The current structure also excludes individual investors from participating and we aim to increase access to this investment vehicle.
+We also believe that there is a plethora of unused student-specific data which has been overlooked by these incumbents due to lack of access to or knowledge of such data. The traditional application process is long, we aim to reduce application time to minutes for most applications. The current structure also excludes individual investors from participating and we aim to increase access to this investment vehicle.
 
-Our business will successfully compete as we will base our loans on non-traditional information on the students, for example:
+Our business will have a competitive edge because we will base our loans on non-traditional student data information for example:
 * Academic performance
 * Degree
 * Years to complete degree
@@ -70,11 +70,12 @@ Our business will successfully compete as we will base our loans on non-traditio
 * Institution 
 * Industry data (e.g. from OfferZen)
 
-This will allow us to model the probability of a particular student being employed after their studies and their likelihood of being able to repay the loan. From this we will be able to apply credit rating to the students, which will allow us to make better decisions about the funding, based on the students future potential income. No weight will be placed on their current financial situation and we open loans to a broader number of students, who would otherwise not be eligible for loans and face financial exclusion in the current system. 
+This will allow us to model the probability of a particular student being employed after their studies which is correlated with their likelihood of being able to repay the loan. From this we will be able to apply credit rating to the students, which will allow us to make better decisions about the funding, based on the students future potential income. No weight will be placed on their current financial situation and we open loans to a broader number of students, who would otherwise not be eligible for loans and face financial exclusion in the current system. 
 
-In the long term we are aiming to be able to offer different students loan structures that suit their industry and package them in such a way to maximize likelihood of repayment.e
+In the long term we are aim to offer customised student loan structures that suit the relevant industry in which the graduate is employed, packaging them in such a way that maximizes the likelihood of repayment. As an example it is a well known fact that students completing their law articles earn R10,000 - R12,000 per month during their articles, but their salaries increases once they are done. A customised papyment plan would allow for low repayments during their articles, and increase thereafter.
 
-We hope to assist the government in making better investment decisions, and allocating according to potential.
+We also hope to assist the government, and bursary schemes in making better investment decisions, and allocating according to potential.
+We believe that our platform would also incentivise repayment due to its transparent nature.
 
 # 3. Products and Services
 
@@ -91,18 +92,18 @@ The model assigns probability of the student getting a job after graduation (whi
 * Step 2:
 The model decides on a cut off for which students to give loans, which will be decided by an overall credit rating we want to achieve for the pool of funds.
 
-* Step 3: Securities the funds into publicly traded securities by:
+* Step 3: Securitise the funds into publicly traded securities by:
   * creating 3 tranches out of the overall loan fund into which potential investors can decide to invest. 
   * These are created by offering publicly tradable tokens, where each of the 3 tranches has a different token:
     * KhanyeziSenior
     * KhanyeziMezzanine
     * KhanyeziEquity
   * One token will equal one rand, and these will accumulate value over time equivalent to the fixed interest rate the investor will earn on their security
-  * Once the student has a job, they will repurchase there higher valued tokens from the investors. 
+  * Once the student has a job, they will repurchase their higher valued tokens from the investors. 
 Each year a new investable fund will be created.
 
 #### Why tokens?
-This will allow us to attract investors who want to invest in any amount into this fund (small or large), as tokens will allow us to split the loans into securities that can be traded on the secondary market. Basically we will create a liquid asset out of an illiquid asset (loans). The process of tokenization allows for fractionalization so that the lender can sell any portion and at any time. 
+This will allow us to attract investors who want to invest in any amount (and currency) into this fund (small or large), as tokens will allow us to split the loans into securities that can be traded on the secondary market. Basically we will create a liquid asset out of an illiquid asset (loans). The process of tokenization allows for fractionalization so that the lender can sell any portion and at any time. 
 
 This will also make investing easier and cheaper for the average investor. 
 
@@ -111,13 +112,13 @@ In summary, this will allow:
 * Fractional ownership
 * Frictionless transaction: the governing system of token transfers is based on smart contracts and can be automated. This will allow for real time execution and low transaction fees. 
 * Transparency in the value chain: Blockchain as technology brings transparency and immutability to all records.
-* Greater access: opens access to smaller and large investors.
+* Greater access: opens access to smaller and large investors,and all currencies.
 
 #### Repayment structure
 
 1. Student pays fiat into our bank account using unique reference #
-2. Reference number and Amount paid is recorded by Oracle - a nodejs service  using request library to fetch deposit info (from Banking API?)
-3. Oracle uses an API to get latest ZAR/ETH price (do we need this?)
+2. Reference number and Amount paid is recorded by Oracle - a nodejs service  using request library to fetch deposit info
+3. Oracle uses an API to get latest ZAR/ETH price 
 4. Parsed data is submitted as a transaction and sent to smart contract
 5. Smart contract processes
 
@@ -135,7 +136,7 @@ We will have 3 different specific use functions for the smart contract:
 
 ## Competitive advantage
 
-Traditional loan and securitization process generally requires the input of many parties – creditors, underwriters, loan officers, etc. which drive up the administrative costs and make transparency difficult. 
+Traditional loan and securitization process generally requires the input of many parties – creditors, underwriters, loan officers, etc. which drive up the administrative costs and make transparency difficult. There are large information asymettries that exist in these complex structures and the burden of this is often felt by the party taking out the loan, in the form of high interest rates.
 
 Because we will be using the blockchain technology, we will be able to offer:
 * Streamlined processes, lower costs, increase transaction speed, enhanced transparency
@@ -145,14 +146,14 @@ Because we will be using the blockchain technology, we will be able to offer:
 We will also link the students and the investors together, which is usually not the case. We will create liquid loans and attract multiple investors, which will make the raising of the funds easier. 
 
 ## Pricing our product or service 
-We will be a non-profit company, in order to assure that students get the best possible rates. However, we will have to price in any salaries, development costs and other expenses. It will be our aim to keep this as low as possible and we will be able to do this using blockchain technology. We will also allow for transparency in the fee structure. This will allow the students and investors to see where the fees are being used and that they are not being wasted. 
+We will be a non-profit company, in order to assure that students get the best possible rates. However, we will have to price in any salaries, development costs and other expenses. It will be our aim to keep this as low as possible and we will be able to do this using blockchain technology. We will also allow for transparency in the fee structure. This will allow the students and investors to see where the fees are being used and that they are not being wasted. Students will be charged a small administration cost to cover the Gas for running the repayments smart contract. And investors will be charged a fee for Khanyezi to service the loans.
 
 # 4. Marketing Plan
 ## Market research
 ### Current Industry
 
 #### Private
-Currently students loans are mainly offered by the bank. 
+Currently post-graduate students loans are mainly offered by the bank. 
 For most of the loans, the students need to have a sponsor who is able to act as surety if they are unable to repay the loan. This limits the number of students who are able to apply for loans. We will have no such policy, as we will rely on our model. 
 
 **ABSA**:
@@ -183,13 +184,13 @@ We may face some issues due to high data needs to create a viable model. This is
 
 There may be a high start-up cost due to the model, app, website and technology development involved in this project. 
 
-Additionally, we may need to do some test runs first for a couple of years to see how well our model does it’s predictions.
+Additionally, we may need to do some test runs first for a couple of years to see how well our model predicts.
 
 ## Threats and opportunities
 We may face the threat of investors not fully understanding and trusting our process and models. The government may also not trust our model and ban us from offering our services. More research and testing needs to be done here. 
-Additionally we face the threat of not being able to optbai the needed data to produce a trusted model. 
+Additionally we face the threat of not being able to abtain the needed data to produce a trusted model. 
 
-However, due to the current studnet laon structures and need for student loans in South Africa, we see a lot of opportunity. We will be able to open more study opportunities for students and allow for investors to diversify their portfolio. 
+However, due to the current student laon structures and need for student loans in South Africa, we see a lot of opportunity. Our mission aligns well with the government objective of increasing throughput through universities. We will be able to open more study opportunities for students and allow for investors to diversify their portfolios. 
 
 ## Product features and benefits
 #### Most important feature:
@@ -207,6 +208,9 @@ Cost savings and financial inclusion. This product is aimed not to exclude those
 
 ## How we will market our product initially
 **Advertising may include:**
+* On-campus events
+* Brand ambassadors
+* SRC
 * Online
 
 **Marketing may include:** 
