@@ -11,11 +11,6 @@ We will tokenize the SPV to allow for easy trading between investors of the toke
 * Equity tranche - will act similar to an equity product, where the return will depend on the number of defaults. This will be for the high risk investors. 
 
 In our first year of business, we plan to onboard the University of Cape Town,and offer up to 50 students a loan. From there we wish to grow and eventually offer our product throughout South Africa. 
-### Your goals for the business. Where do you expect the business to be in one year, three years, five years? 
-
-### Your competition and what differentiates your business. Who are you up against, and what unique selling proposition will help you succeed? 
-### Your management team and their prior experience. What do they bring to the table that will give your business a competitive edge? 
-### Financial outlook for the business. If you’re using the business plan for financing purposes, explain exactly how much money you want, how you will use it, and how that will make your business more profitable. 
 
 # 2. Company Description
 ## Company mission statement
