@@ -3,7 +3,7 @@ We aim to empower communities to invest in their youths, through decentralized f
 
 We believe that the current student loan system is South Africa excludes many students with potential, as they often require a guarantor to co-sign their student loan. We will create a risk model which will project the likelihood of the student becoming employed once graduated and their income, this will allow us a place an informal credit rating on each student. This will be done using curated student data and to train a logistic regresion model for the likelihood of employment, and a linear regression for the income prediction. We believe that these models allow for simplicity, and transparency in our decision-making.
 
-Once the model has selected students to whom we will award funding, we will raise the funds using a special purpose vehicle (SPV), to target investors of varying risk apetites.The overall credit rating of the pool will be determined by the overall credit rating of the students in the SPV.
+Once the model has selected students to whom we will award funding, we will raise the funds using a special purpose vehicle (SPV), to target investors of varying risk apetites. The overall credit rating of the pool will be determined by the overall credit rating of the students in the SPV. By aggregating many loans together, the overall funds become more predictable, which will yield a more attractive risk-adjusted return on investment.
 
 We will tokenize the SPV to allow for easy trading between investors of the tokens. Investing in Khanyezi will allow investors to make a social impact, as well as diversify their portfolio. The SPV will be divided into three tranches:
 * Senior tranche - lowest risk and lowest return for the investor
@@ -51,12 +51,11 @@ We believe that there will be a market here as the current loans have excessivel
 as well as high interest costs.
 
 ## Industry
-
 We believe that we will have a competitive advantage due to the current industry structure. Our current competitors are the major banks, for example Standard Bank, ABSA, FNB and NedBank and any other organization offering student loans. These institutions require a guarantor earning at least R3,000 and the guarantor is obliged to make interest payments while the student is studying. It is often difficult for students to find someone to agree with this, especially those from low or no income families.The interest payments are often burdensome for guarantors earning as little as R3,000.
 
 We also believe that there is a plethora of unused student-specific data which has been overlooked by these incumbents due to lack of access to or knowledge of such data. The traditional application process is long, we aim to reduce application time to minutes for most applications. The current structure also excludes individual investors from participating and we aim to increase access to this investment vehicle.
 
-Our business will have a competitive edge because we will base our loans on non-traditional student data information for example:
+Our business will have a competitive edge because we will base our loans on non-traditional student information, for example:
 * Academic performance
 * Degree
 * Years to complete degree
