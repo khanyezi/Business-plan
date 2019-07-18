@@ -1,14 +1,13 @@
 # 1. Executive Summary
-We aim to empower communities to invest in their youths, through decentralized finance. We will do this by offering obligation-free student loans to post-graduate students and repackaging the loans into tradable securities for investors to invest in. This is done by tokenization.
+We aim to empower communities to invest in their youths, through decentralized finance. We will do this by offering obligation-free student loans to post-graduate students and repackaging the loans into a tradable security for investors to invest in. This is done by tokenization.
 
-We believe that the current student loan system is South Africa excludes many students with potential, as they often require a guarantor to co-sign their student loan. We will create a risk model which will project the likelihood of the student becoming employed once graduated and their income, this will allow us a place an informal credit rating on each student. This will be done using curated student data and to train a logistic regresion model for the likelihood of employment, and a linear regression for the income prediction. We believe that these models allow for simplicity, and transparency in our decision-making.
+We believe that the current student loan system is South Africa excludes many students with potential, as they often require a guarantor to co-sign their student loan. We will create a risk model which will project the likelihood of the student becoming employed once graduated and their income, this will allow us to place needed confidence in the repayments of the loans. This will be done using curated student data and to train a logistic regresion model for the likelihood of employment, or a linear regression for the income prediction. We believe that these models allow for simplicity, and transparency in our decision-making.
 
-Once the model has selected students to whom we will award funding, we will raise the funds using a special purpose vehicle (SPV), to target investors of varying risk apetites. The overall credit rating of the pool will be determined by the overall credit rating of the students in the SPV. By aggregating many loans together, the overall funds become more predictable, which will yield a more attractive risk-adjusted return on investment.
+Once the model has selected students to whom we will award funding, we will raise the funds by appealing to investors willing to invest in students as social responsible investing. Social responsible investing is becoming an important part of many investors portfolios, additionally, since we are a SRI, we offer some tax exemption. By aggregating many loans together, the overall funds become more predictable, which will yield a more attractive risk-adjusted return on investment.
 
-We will tokenize the SPV to allow for easy trading between investors of the tokens. Investing in Khanyezi will allow investors to make a social impact, as well as diversify their portfolio. The SPV will be divided into three tranches:
-* Senior tranche - lowest risk and lowest return for the investor
-* Mezzzanine tranche - medium risk and return
-* Equity tranche - will act similar to an equity product, where the return will depend on the number of defaults. This will be for the high risk investors. 
+We will tokenize the SPV to allow for easy trading between investors of the tokens. Investing in Khanyezi will allow investors to make a social impact, as well as diversify their portfolio. 
+
+By targeting such investors we will be able to charge interest rates well below the current student loan rates, at the risk free rate plus some small margin to cover any costs.
 
 In our first year of business, we plan to onboard the University of Cape Town,and offer up to 50 students a loan. From there we wish to grow and eventually offer our product throughout South Africa. 
 
@@ -40,15 +39,11 @@ Our target customers will be post-graduate students and social impact investors.
 At the beginning we will offer our services to post-graduate students only, this includes honors and masters students. We will offer obligation free loans i.e. their only commitment is to repay the loan. 
 
 #### Investors
-Different types of investors will be targeted by our funding structure. The amount of finance required will grouped together to create a pool of loans which will be separated into 3 tranches:
-* Senior tranche (low risk, low return)
-* Middle tranche (medium risk, medium return)
-* Subordinate tranche (high risk, high return)
+Targeting social impact investors allows us to keep fees low, and will give them the opportunity to invest their money in an investment that will have some social impact. There are many portfolios who aim to have a certain percentage of their funds invested in social impact investment. Additionally, they would be able to publicly announce that they are part of this fund, which may have an impact on the public opinion of the company. 
 
-Targeting social impact investors allows us to keep fees low, and will give them the opportunity to invest their money in an investment that will have some social impact. There are many portfolios who aim to have a certain percentage of their funds invested in social impact investment.
+We believe that there will be a market here as the current loans have excessively high administration costs as well as high interest costs. 
 
-We believe that there will be a market here as the current loans have excessively high administration costs 
-as well as high interest costs.
+How it will work: the investor will recieve a risk-free rate of return if there are no defaults on the loans. However, once the funds are received and there are defaults, the funds are distributed amongst the investors in proportion to their investment in the overall fund. 
 
 ## Industry
 We believe that we will have a competitive advantage due to the current industry structure. Our current competitors are the major banks, for example Standard Bank, ABSA, FNB and NedBank and any other organization offering student loans. These institutions require a guarantor earning at least R3,000 and the guarantor is obliged to make interest payments while the student is studying. It is often difficult for students to find someone to agree with this, especially those from low or no income families.The interest payments are often burdensome for guarantors earning as little as R3,000.
