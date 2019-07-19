@@ -24,7 +24,8 @@ Vision: Removing barriers to education by providing affordable funding.
 ### Short term:
 * Sign data agreements with University of Cape Town
 * Onboard 50 students
-* Create relationships with 5 potential employers for funded graduates
+* Offer loans up to R200 000 to fund one year of studies and living expenses
+* Create relationships potential employers for funded graduates
 
 ### Long term:
 * Sign data agreements with 2 more universities
@@ -59,7 +60,7 @@ Our business will have a competitive edge because we will base our loans on non-
 * Institution 
 * Industry data (e.g. from OfferZen)
 
-This will allow us to model the probability of a particular student being employed after their studies which is correlated with their likelihood of being able to repay the loan. From this we will be able to apply credit rating to the students, which will allow us to make better decisions about the funding, based on the students future potential income. No weight will be placed on their current financial situation and we open loans to a broader number of students, who would otherwise not be eligible for loans and face financial exclusion in the current system. 
+This will allow us to model the probability of a particular student being employed after their studies which is correlated with their likelihood of being able to repay the loan. From this we will be able to apply a type of credit rating to the students, which will allow us to make better decisions about the funding, based on the students future potential income. No weight will be placed on their current financial situation and we open loans to a broader number of students, who would otherwise not be eligible for loans and face financial exclusion in the current system. 
 
 In the long term we are aim to offer customised student loan structures that suit the relevant industry in which the graduate is employed, packaging them in such a way that maximizes the likelihood of repayment. As an example it is a well known fact that students completing their law articles earn R10,000 - R12,000 per month during their articles, but their salaries increases once they are done. A customised papyment plan would allow for low repayments during their articles, and increase thereafter.
 
@@ -69,27 +70,32 @@ We believe that our platform would also incentivise repayment due to its transpa
 # 3. Products and Services
 
 ## Our products and services
-We offer collateral-free loans to post-graduate students by creating a social investment product that allows multiple investors to participate in funding their studies. These loans are packaged into investible products that investors can purchase. 
+We offer collateral-free loans to post-graduate students by creating a social investment product that allows investors to participate in funding their studies. These loans are packaged into an investible product that investors can purchase, through buying our KhanyeziToken. 
 
 The process can be explained as follows:
 
-[![Presentation02fa25524f1ba1b7.md.png](https://imgbbb.com/images/2019/07/05/Presentation02fa25524f1ba1b7.md.png)](https://imgbbb.com/image/ZcdhR)
-
 * Step1: 
-The model assigns probability of the student getting a job after graduation (which simultaneously applies a credit rating to that student).
+The model assigns probability of the student getting a job after graduation (which equivalently assigns a probability to the likelihood of the student being able to repay the loans).
 
 * Step 2:
-The model decides on a cut off for which students to give loans, which will be decided by an overall credit rating we want to achieve for the pool of funds.
+The model decides on a cut off for which students to give loans, which will be decided by an overall risk of the students. We will aim to onboard 50 students in the first round.
 
-* Step 3: Securitise the funds into publicly traded securities by:
-  * creating 3 tranches out of the overall loan fund into which potential investors can decide to invest. 
-  * These are created by offering publicly tradable tokens, where each of the 3 tranches has a different token:
-    * KhanyeziSenior
-    * KhanyeziMezzanine
-    * KhanyeziEquity
-  * One token will equal one rand, and these will accumulate value over time equivalent to the fixed interest rate the investor will earn on their security
-  * Once the student has a job, they will repurchase their higher valued tokens from the investors. 
+* Step 3: Pool the funds needed for the students into a tradable securitiy by:
+  * creating a token which potential investors can purchase and so invest in the students
+  * these tokens will represent a share of the total funds
+  * investors may receive a quarterly return of the risk free rate on their investment, starting 18 months post inestment
+  * Once the student has a job (or after 18 months), they will "repurchase" their higher valued tokens from the investors. 
 Each year a new investable fund will be created.
+
+The investors will take on the risk of students defaulting on their loans, however they benefit from:
+* potential tax break due to the set up of the fund, which is aimed to benefit out society
+* potential risk free retrun on their investment
+* diversification of their portfolio
+* using their money to help someone achieve their goals
+
+In the event of defaults, the available funds are split in proportion to what each investor invested in initially. Since the students repay on a monthly basis, and investors get paid quarterly, there is some room to allow for late payments by the students. 
+
+Additionally, 10% extra funds will be raised and invested in a riks free investment and used in the case of defaults. 
 
 #### Why tokens?
 This will allow us to attract investors who want to invest in any amount (and currency) into this fund (small or large), as tokens will allow us to split the loans into securities that can be traded on the secondary market. Basically we will create a liquid asset out of an illiquid asset (loans). The process of tokenization allows for fractionalization so that the lender can sell any portion and at any time. 
@@ -112,16 +118,11 @@ In summary, this will allow:
 5. Smart contract processes
 
 #### Smart contracts
-
-* smart contracts can be used to measure the investment risk of security pools
-* notify investors/creditors when a mortgage has gone delinquent
-* and determine the value of securities in real time.
-
-We will have 3 different specific use functions for the smart contract:
-* Create token (3 slightly different ones)
-* Investors to buy tokens (initially 1 token = 1 rand, as a stable coin)
+We will have 3 different specific use functions for the smart contracts:
+* KhanyeziTokens: a token contract created with the ERC20 token skeleton
+* InvestmentVehicle: Investors to buy tokens (initially 1 token = 1 rand, as a stable coin)
   * Should increase inline with fix interest of loan, so that it is easily tradable
-* Repayments of student
+* Repayment contract: Repayments of student
 
 ## Competitive advantage
 
@@ -132,7 +133,7 @@ Because we will be using the blockchain technology, we will be able to offer:
 * Immutable audit trail: single source of truth that participants can use 
 * Ability to track and manage payment records
 
-We will also link the students and the investors together, which is usually not the case. We will create liquid loans and attract multiple investors, which will make the raising of the funds easier. 
+We link the students and the investors together, which is usually not the case. We will create liquid loans and attract multiple investors, which will make the raising of the funds easier. 
 
 ## Pricing our product or service 
 We will be a non-profit company, in order to assure that students get the best possible rates. However, we will have to price in any salaries, development costs and other expenses. It will be our aim to keep this as low as possible and we will be able to do this using blockchain technology. We will also allow for transparency in the fee structure. This will allow the students and investors to see where the fees are being used and that they are not being wasted. Students will be charged a small administration cost to cover the Gas for running the repayments smart contract. And investors will be charged a fee for Khanyezi to service the loans.
