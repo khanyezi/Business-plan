@@ -1,34 +1,27 @@
 #### Introduction
-To fund the student loans we will set up a SPV (Special Purpose Vehicle) type investment with 3 tranches, each tranch will target a different group of investors:
-* Senior tranche
-* Mezzanine tranche
-* Equity tranche
+To fund the student loans we will set up an investment vehicle to to attract investors interested in participating in social responsible investing. 
 
-The equity tranche will receive the rest of the funds that has not been distributed. This allows us to obtain funding for the student loans without incurring a liability, by selling the debt structures to investors who have suitable risk/return demands.
+Once the repayments by the stundets start, the funds received will be distributed in proportion to the investors initial investment.
 
 #### Summary of how it will work:
 1. A SPV is set up to raise funds for student loans
-2. Debt type securities are issued to investors, where they can choose to buy one of three tokens:
-  * KhanyeziSenior: Senior tranche
-  * KhanyeziMezzanine: Mezzanine tranche
-  * KhanyeziEquity: Equity tranche
-3. These funds are then used to provide the student with loans, and paid directly to either the unversity or to them 
+2. Debt type securities are issued to investors, where they can choose to buy out KhanyeziToken:
+  * This will recieve the risk - free rate of return, if no defaults occure. 
+  * however the investors take on all the credit risk and are paid out those funds available. 
+3. These funds are then used to provide the student with loans, and paid directly to either the university 
 4. The SPV’s obligations to the investors is limited to and secured by a security interest created by the SPV over the loans 
 5. Investors receive a return on their investment which is funded and secured by the loans acquired by the SPV
-  * Students will be charged an interets on their loans that will fund this repayment structure
+  * Students will be charged the risk-free rate plus some margin to cover costs 
   * We expect for them to be employed after they graduate to repay the capital with interest payments, once they receive an income
-  * the period until repayment may be a year plus some lag period to allow the students some extra time to find a job.
+  * the period until repayment may be a year plus some lag period (6 months) to allow the students some extra time to find a job.
   
  #### Legal status: TBC
  
  #### Details on SPV securities:
-These are usually bonds, or notes and can be issued in several tranches. There can be different classes of securities with different payment priorities and characteristic such as credit ratings and/or interest payments.
-The three tranches:
-* **Senior tranche:** Low risk, low return
-* **Mezzanine tranche:** intermediate risk, but higher return than the senior tranche. Will absorb any losses not absorbed by equity tranche until it is also exhausted
-* **Equity tranche:** Highest risk. This will absorb any losses brought about by default of the loans, until the tranche is exhausted, at which point the investment will be worthless. This tranche will act in the same way as equities do and any payout left after the senior and mezzanine tranche have been paid out will go to the equity tranche. 
-
-This means that: When cash flows are received from borrowers in the form of interest payments and loan capital repayments, these payments are paid to the senior tranche first until their obligation is fulfilled, then the mezzanine tranche, and anything left over is paid to the equity tranche. Any defaults hit the equity tranche first, then the mezzanine tranche and so on. The repayments represent a ‘waterfall’ of cash with the investors holding the tranches like buckets. 
+These are usually bonds, or notes and can be issued to investors who would liek to invest into the future of their business. This investment may not guarantee high returns, however:
+* the investore may be eligible to a tax break on their investment
+* are diversifying their portfolio
+* Taking part in social resposible investing
 
 #### Why tokenize the tranches?
 This will allow for greater liquidity for investors to trade the tokens and hence their investment on secondary markets. It will also allow a wider range of investors to invest in the student loans, large corporates or small scale investors looking to diversify their portfolio. 
